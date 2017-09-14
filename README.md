@@ -1,3 +1,4 @@
 # Jobbord
 
-Add Change-bank
+Add Change-bank CAG
+Add Wavesnode.net WNET
